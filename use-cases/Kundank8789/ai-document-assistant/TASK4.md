@@ -24,6 +24,12 @@ The following diagram represents the overall architecture and data flow of the A
 
 ![AI Document Assistant Architecture](./images/architecture-diagram.jpg)
 
+## Architecture Walkthrough Video
+
+A video walkthrough explaining the AI Document Assistant architecture, including the React frontend, FastAPI backend, PostgreSQL database, Mistral AI integration, and the overall data flow.
+
+[Watch the Architecture Walkthrough Video](https://drive.google.com/file/d/11ZyAgsj4uf0py0BUK7EJFuiKgAvKFx10/view?usp=drivesdk)
+
 ## Architecture Flow
 
 1. The user interacts with the React frontend.
